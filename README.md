@@ -4,6 +4,9 @@ News Board - An Open-Source News App that uses [NewsAPI](https://newsapi.org/) f
 ## Getting Started
 This project demonstrates on how to work with MVVM model.
 
+## App Overview
+![Screen](images/main.png?raw=true)
+
 ### Features
 * Supports Offline Caching.
 * Lite and breezy theme.
