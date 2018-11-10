@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Board</string>
+    <string name="title_activity_main">News Board</string>
+
+    <string name="api_key">Your key here</string>
+    <string name="mashape_key">Your key here</string>
+
+    <string name="default_notification_channel_id">default</string>
+</resources>
