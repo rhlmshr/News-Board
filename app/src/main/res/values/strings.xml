@@ -2,8 +2,8 @@
     <string name="app_name">News Board</string>
     <string name="title_activity_main">News Board</string>
 
-    <string name="api_key">Your key here</string>
-    <string name="mashape_key">Your key here</string>
+    <string name="api_key">9d2731d881be4c7d842ad5667bc7354a</string>
+    <string name="mashape_key">DMe3xgOZmLmshaDEnN9ykB6Avvgmp1UPlEZjsn5MQ4VNI4MZM0</string>
 
     <string name="default_notification_channel_id">default</string>
 </resources>
